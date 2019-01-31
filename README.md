@@ -1,3 +1,3 @@
-# GiphyJS
+# Chatbot NodeJS
 
-Project based on nodeJS, express and mongoDB. Composed by frontend/backend with register and login users.
+Chatbot with NodeJS and Express
