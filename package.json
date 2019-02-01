@@ -4,7 +4,7 @@
   "description": "Chatbot in NodeJS, Express and Socket.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
     "apiai": "^4.0.3",
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
   }
 }
